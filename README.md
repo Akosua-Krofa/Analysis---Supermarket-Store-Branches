@@ -2,6 +2,7 @@
 Analysis on 896 unique Supermarket Store Branches which deal in food, beverages and household products
 # Context
 A supermarket is a self-service shop offering a wide variety of food, beverages, and household products, organized into sections. This kind of store is larger and has a wider selection than earlier grocery stores but is smaller and more limited in the range of merchandise than a hypermarket or big-box market. In everyday U.S. usage, however, "grocery store" is synonymous with supermarket, and is not used to refer to other types of stores that sell groceries.
+# Basic Findings
 The data had 896 rows and 5 Columns
 The total number of records for each variable is 896. The mean daily customer count and Store sales  is 786.35, and 59,351.30 dollars respectively. The maximum daily customer count and Store sales value is 1,560 and 116,320 dollars respectively. The minimum number of customers in a day per month is 10 and the least daily sales is 14,920
 The top 5 Store sales are 54590, 63540, 63660, 74080 and 77120. These sales are recorded by 3, 3, 2, 2 and 2 stores respectively
